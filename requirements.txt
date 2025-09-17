@@ -1,0 +1,6 @@
+pymupdf
+numpy
+Pillow
+scikit-learn
+ipywidgets
+reportlab
